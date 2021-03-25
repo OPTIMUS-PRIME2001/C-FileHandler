@@ -37,4 +37,9 @@ Know More About File Handling
     <td>fstream</td><td>It is an input-output file stream class. It provides suppoert for simultaneous input and output operations. It inherits all the functions from istream and ostream classes through iostream class defined inside iostream.h file.</td>
   </tr>
 </table>  
+<hr></hr>
+<h2>DATA FILES</h2>
+The data files are the files that stoores data pertaining to a specific application, for later use.The data files can be stored in two ways:
+<ul><li><b>TEXT FILES</b>Stores information in ASCII characters.In text files, each line of text is terminated,(delimited) with special characters known as EOL(End of line) characters.In text files some internal translations take place when this EOL character is read or written</li>
+  <li><b>Binary file</b></li></ul>
 </details>
